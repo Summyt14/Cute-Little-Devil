@@ -1,0 +1,40 @@
+purple_blob.png
+size: 152, 190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: 4
+Death
+  rotate: false
+  xy: 0, 38
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: 4
+Hurt
+  rotate: false
+  xy: 0, 76
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: 4
+Idle
+  rotate: false
+  xy: 0, 114
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 0, 152
+  size: 152, 38
+  orig: 152, 38
+  offset: 0, 0
+  index: 4

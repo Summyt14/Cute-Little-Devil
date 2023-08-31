@@ -1,0 +1,75 @@
+magiceffects.png
+size: 720, 720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Black-hole
+  rotate: false
+  xy: 0, 0
+  size: 576, 72
+  orig: 576, 72
+  offset: 0, 0
+  index: 8
+Explosion
+  rotate: false
+  xy: 0, 72
+  size: 720, 72
+  orig: 720, 72
+  offset: 0, 0
+  index: 9
+Fire-ball
+  rotate: false
+  xy: 0, 144
+  size: 576, 72
+  orig: 576, 72
+  offset: 0, 0
+  index: 8
+Fire-wall
+  rotate: false
+  xy: 0, 216
+  size: 720, 72
+  orig: 720, 72
+  offset: 0, 0
+  index: 10
+Lightning-bolt
+  rotate: false
+  xy: 0, 288
+  size: 720, 72
+  orig: 720, 72
+  offset: 0, 0
+  index: 10
+Lightning
+  rotate: false
+  xy: 0, 360
+  size: 720, 72
+  orig: 720, 72
+  offset: 0, 0
+  index: 10
+Midas-touch
+  rotate: false
+  xy: 0, 432
+  size: 504, 72
+  orig: 504, 72
+  offset: 0, 0
+  index: 7
+Shield
+  rotate: false
+  xy: 0, 504
+  size: 576, 72
+  orig: 576, 72
+  offset: 0, 0
+  index: 8
+Spikes
+  rotate: false
+  xy: 0, 576
+  size: 720, 72
+  orig: 720, 72
+  offset: 0, 0
+  index: 10
+Sun-strike
+  rotate: false
+  xy: 0, 648
+  size: 720, 72
+  orig: 720, 72
+  offset: 0, 0
+  index: 10

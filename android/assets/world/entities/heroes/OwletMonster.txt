@@ -1,0 +1,124 @@
+OwletMonster.png
+size: 256, 544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Double_Jump_Dust
+  rotate: false
+  xy: 0, 0
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: 5
+Monster
+  rotate: false
+  xy: 0, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+Monster_Attack1
+  rotate: false
+  xy: 0, 64
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 4
+Monster_Attack2
+  rotate: false
+  xy: 0, 96
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: 6
+Monster_Climb
+  rotate: false
+  xy: 0, 128
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 4
+Monster_Death
+  rotate: false
+  xy: 0, 160
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: 8
+Monster_Hurt
+  rotate: false
+  xy: 0, 192
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 4
+Monster_Idle
+  rotate: false
+  xy: 0, 224
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 4
+Monster_Jump
+  rotate: false
+  xy: 0, 256
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: 8
+Monster_Push
+  rotate: false
+  xy: 0, 288
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: 6
+Monster_Run
+  rotate: false
+  xy: 0, 320
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: 6
+Monster_Throw
+  rotate: false
+  xy: 0, 352
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 4
+Monster_Walk+Attack
+  rotate: false
+  xy: 0, 384
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: 6
+Monster_Walk
+  rotate: false
+  xy: 0, 416
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: 6
+Rock1
+  rotate: false
+  xy: 0, 448
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+Rock2
+  rotate: false
+  xy: 0, 480
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+Walk_Run_Push_Dust
+  rotate: false
+  xy: 0, 512
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: 6

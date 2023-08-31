@@ -1,0 +1,96 @@
+bars.png
+size: 442, 30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Band2_off
+  rotate: false
+  xy: 0, 0
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+Band2_on
+  rotate: false
+  xy: 32, 0
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+Band_off
+  rotate: false
+  xy: 64, 0
+  size: 142, 12
+  orig: 144, 12
+  offset: 0, 0
+  index: -1
+Band_on
+  rotate: false
+  xy: 206, 0
+  size: 142, 12
+  orig: 144, 12
+  offset: 0, 0
+  index: -1
+Button_off
+  rotate: false
+  xy: 348, 0
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Button_on
+  rotate: false
+  xy: 360, 0
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 412, 0
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Energybar_empty
+  rotate: false
+  xy: 0, 12
+  size: 96, 12
+  orig: 96, 12
+  offset: 0, 0
+  index: -1
+Energybar_full
+  rotate: false
+  xy: 96, 12
+  size: 96, 12
+  orig: 96, 12
+  offset: 0, 0
+  index: -1
+Healthbar_empty
+  rotate: false
+  xy: 192, 12
+  size: 96, 12
+  orig: 96, 12
+  offset: 0, 0
+  index: -1
+Healthbar_full
+  rotate: false
+  xy: 288, 16
+  size: 96, 12
+  orig: 96, 12
+  offset: 0, 0
+  index: -1
+Slider
+  rotate: false
+  xy: 372, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Square
+  rotate: false
+  xy: 388, 0
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

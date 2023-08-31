@@ -1,0 +1,40 @@
+bear.png
+size: 240, 200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 240, 40
+  orig: 240, 40
+  offset: 0, 0
+  index: 6
+Death
+  rotate: false
+  xy: 0, 40
+  size: 240, 40
+  orig: 240, 40
+  offset: 0, 0
+  index: 6
+Hurt
+  rotate: false
+  xy: 0, 120
+  size: 160, 40
+  orig: 160, 40
+  offset: 0, 0
+  index: 4
+Idle
+  rotate: false
+  xy: 0, 160
+  size: 160, 40
+  orig: 160, 40
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 0, 80
+  size: 240, 40
+  orig: 240, 40
+  offset: 0, 0
+  index: 6

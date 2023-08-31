@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631971090784",
+    "firebase_url": "https://cute-little-devil-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cute-little-devil",
+    "storage_bucket": "cute-little-devil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631971090784:android:9dc2b2054e8883671b4e05",
+        "android_client_info": {
+          "package_name": "com.dam46338.projeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631971090784-flrht0g0oe8lcrjsa7kkffucsdcpkltc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam46338.projeto",
+            "certificate_hash": "2f0aded2da26e6ff70671ee51e541027c4c2fa46"
+          }
+        },
+        {
+          "client_id": "631971090784-kfd99edco7irrdm3ho0ff1l3m4i817m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3qoZmPmkctU6MbLw8MSAkUyBzUpXRpDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631971090784-kfd99edco7irrdm3ho0ff1l3m4i817m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

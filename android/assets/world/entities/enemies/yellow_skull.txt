@@ -1,0 +1,40 @@
+yellow_skull.png
+size: 204, 170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Attack
+  rotate: false
+  xy: 0, 0
+  size: 204, 34
+  orig: 204, 34
+  offset: 0, 0
+  index: 6
+Death
+  rotate: false
+  xy: 0, 34
+  size: 204, 34
+  orig: 204, 34
+  offset: 0, 0
+  index: 6
+Hurt
+  rotate: false
+  xy: 0, 68
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: 4
+Idle
+  rotate: false
+  xy: 0, 102
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: 4
+Walk
+  rotate: false
+  xy: 0, 136
+  size: 204, 34
+  orig: 204, 34
+  offset: 0, 0
+  index: 6
